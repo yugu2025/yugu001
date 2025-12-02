@@ -24,7 +24,7 @@ jobs:
         with:
           path: .  # Astro 项目位置
           node-version: 20
-          package-manager: pnpm@latest
+        #  package-manager: pnpm@latest
 
   deploy:
     needs: build
