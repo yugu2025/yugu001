@@ -1,11 +1,51 @@
-# About
-DearNikki is a static blog template based on [Fuwari](https://github.com/saicaca/fuwari).
+---
+title: "关于"
+---
 
-Greatest thanks to:
+# 关于我
 
-::github{repo="saicaca/fuwari"}
+你好！我是**余梏**，欢迎来到我的个人博客。
 
-> ### Sources of images used in this site
-> - [Rabbit - v1.4 Showcase](https://civitai.com/posts/586908) by [Rabbit_YourMajesty](https://civitai.com/user/Rabbit_YourMajesty)
-> - [初音ミク](https://www.pixiv.net/artworks/137495195) by [maegjuw | メイジュ](https://www.pixiv.net/users/42597753)
-> - [Dream Blue](https://www.pixiv.net/artworks/129563571) by [アシマ / Ashima](https://www.pixiv.net/users/2642047)
+## 👤 我是谁
+
+我是在读大学生，正在尝试学习网络安全Web方向。
+
+## 📝 这个博客
+
+这个博客使用 [DearNikki](https://github.com/Rabbit0w0/dear-nikki) 主题搭建，基于 Astro 静态网站生成器。
+
+## 📚 写作内容
+
+我会在这里分享：
+
+### 🚀 技术相关
+- Web安全基础知识
+- 漏洞原理深度分析
+- 安全工具使用教程
+
+### 📖 生活记录
+- 读书笔记与感想
+- 生活观察与思考
+- 旅行见闻记录
+
+### 💡 其他分享
+- 有趣的发现
+- 实用的资源推荐
+- 个人项目进展
+
+## 📬 联系我
+
+- **GitHub**: [yugu2025](https://github.com/yugu2025)
+- **QQ**:3156381969 
+
+## 🎯 博客目标
+
+1. **记录成长** - 记录学习过程和思考
+2. **分享知识** - 传播有价值的内容
+3. **连接同好** - 结识有共同兴趣的朋友
+
+感谢你的访问，希望这里的内容对你有帮助！
+
+---
+
+> *"记录是为了更好地前行"*
